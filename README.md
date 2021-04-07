@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Meal Application using Vue JS
 Meal Application is a single page web application which allows user to
 
@@ -36,3 +37,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# meal
+>>>>>>> aed77ae4eba7455581db614e01d731cc65162fa6
